@@ -1,7 +1,5 @@
 
-![DSL Logo](https://github.com/BrockDSL/IntroRubyProgramLanguage/edit/main/dsl_logo.png)
 
-[@brock_dsl](https://twitter.com/brock_dsl)
 
 
 # Ruby Programming Language
