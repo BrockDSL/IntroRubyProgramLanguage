@@ -1,2 +1,2 @@
 # IntroRubyProgrammingLanguage
-Intro to variables, math, functions using Ruby
+Intro to variables, math, loops, conditionals, and functions using Ruby
