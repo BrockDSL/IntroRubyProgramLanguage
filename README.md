@@ -1,12 +1,10 @@
-# IntroRubyProgrammingLanguage
-Intro to variables, math, loops, conditionals, and functions using Ruby
 ![DSL Logo](dsl_logo.png)
 
 [@brock_dsl](https://twitter.com/brock_dsl)
 
 
 # Ruby Programming Language
-
+Intro to variables, math, loops, conditionals, and functions using Ruby
 
 
 
