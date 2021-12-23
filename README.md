@@ -1,5 +1,5 @@
 
-![DSL Logo](dsl_logo.png)
+![DSL Logo](https://github.com/BrockDSL/IntroRubyProgramLanguage/edit/main/dsl_logo.png)
 
 [@brock_dsl](https://twitter.com/brock_dsl)
 
